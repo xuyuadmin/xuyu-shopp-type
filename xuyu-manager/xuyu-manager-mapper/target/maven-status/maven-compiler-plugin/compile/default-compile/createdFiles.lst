@@ -1,0 +1,11 @@
+com\xuyu\mapper\TbUserMapper.class
+com\xuyu\mapper\TbContentMapper.class
+com\xuyu\mapper\TbOrderMapper.class
+com\xuyu\mapper\TbItemParamItemMapper.class
+com\xuyu\mapper\TbOrderItemMapper.class
+com\xuyu\mapper\TbItemCatMapper.class
+com\xuyu\mapper\TbItemMapper.class
+com\xuyu\mapper\TbContentCategoryMapper.class
+com\xuyu\mapper\TbItemParamMapper.class
+com\xuyu\mapper\TbItemDescMapper.class
+com\xuyu\mapper\TbOrderShippingMapper.class
